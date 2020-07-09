@@ -1,0 +1,34 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#header-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/dave\ journal.jpg);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
+
+#second-section {
+    background-color:floralwhite
+
+    
+
+}
+
+
+#parallax-section {
+    background-image: url(../images/dave\ n\ alex.jpg);
+    background-position: right bottom;
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+#footer-section {
+    background-image: linear-gradient(to bottom, rgba(82, 47, 60, 0.541), rgba(0, 0, 0, .75)), url(../images/cover-bubble-dark.svg);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
